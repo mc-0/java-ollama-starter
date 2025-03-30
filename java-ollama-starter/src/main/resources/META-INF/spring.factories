@@ -1,3 +1,0 @@
-# META-INF/spring.factories
-org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-org.java.ollama.starter.OllamaApiAutoConfiguration
